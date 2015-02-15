@@ -1,0 +1,54 @@
+body {
+/* Typography Declarations */
+color: #222222;
+font-size: 1em;
+font-family: "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.projects {
+max-width: 60.625em;
+margin: 0 auto;
+padding: 0 15px;
+}
+
+.masthead {
+padding: 6em 0;
+background-image: url(http://i.imgur.com/2niha4n.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+
+}
+
+.masthead-heading {
+/* Layout Declarations */
+text-align: center;
+    text-shadow: 2px 2px 4px #111317;
+    color: #fff;
+margin-top: -0.2em;
+/* Typography Declarations */
+font-family: "Open Sans", "Helvetica Neue", sans-serif;
+font-weight: bold;
+font-size: 6em;
+letter-spacing: -0.02em;
+text-transform: uppercase;
+}
+
+
+
+
+a:link,
+a:visited {
+text-decoration: none;
+   
+}
+
+a:visited {
+color: inherit;
+
+}
+
+a:hover {
+text-decoration: underline;
+    cursor: pointer;
+
+}
